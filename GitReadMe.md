@@ -1,17 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Git Commands Guide</title>
+
     <style>
         body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; }
         h1, h2, h3 { color: #333; }
         code { background: #f4f4f4; padding: 2px 5px; border-radius: 3px; }
         pre { background: #f4f4f4; padding: 10px; border-radius: 5px; overflow-x: auto; }
     </style>
-</head>
-<body>
     <h1>Git Commands Guide</h1>
     <p>This guide provides all the necessary steps for common Git operations such as push, pull, fetch, login, and authentication.</p>
     
@@ -66,5 +59,3 @@
     
     <h2>Conclusion</h2>
     <p>This guide covers the basic Git operations you need to manage your repositories. For more advanced usage, refer to the official <a href="https://git-scm.com/doc">Git documentation</a>.</p>
-</body>
-</html>

@@ -141,3 +141,12 @@ This guide provides all the necessary steps for common Git operations such as pu
 ## Conclusion
 
 This guide covers the basic Git operations you need to manage your repositories. For more advanced usage, refer to the [Git documentation](https://git-scm.com/doc) and the [GitHub CLI documentation](https://cli.github.com/manual/)." > GitReadMe.md
+types of sorting in java 
+1. Bubble Sort
+2. Selection Sort
+3. Insertion Sort
+4. Quick Sort
+5. Merge Sort
+6. Heap Sort
+7. Counting Sort
+8. Radix Sort

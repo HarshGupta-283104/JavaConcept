@@ -1,5 +1,10 @@
 
+
+
 public class BinarySearch {
+    public static void println(String message) {
+        System.out.println(message);
+    }
 
     public static int binarySearch(int[] arr, int target) {
         int left = 0;
@@ -27,7 +32,7 @@ public class BinarySearch {
         int result = binarySearch(numbers, key);
 
         if (result != -1)
-            System.out.println("Element found at index: " + result);
+            println("Element found at index: " + result);
         else
             System.out.println("Element not found.");
     }

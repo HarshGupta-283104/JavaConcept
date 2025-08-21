@@ -7,7 +7,6 @@ public class MergeSortedArrays {
 
         // Step 1: Merge both arrays into one list
         int[] merged = new int[n + m];
-        int[] merged = new int[n + m];
         int idx = 0;
 
         for (int num : A) merged[idx++] = num;

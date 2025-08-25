@@ -1,6 +1,4 @@
 
-
-
 public class BinarySearch {
     public static void println(String message) {
         System.out.println(message);
